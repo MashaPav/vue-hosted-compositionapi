@@ -28,8 +28,8 @@ const themeOptions = {
 
 app.use(Frontegg, {
   contextOptions: {
-    baseUrl: "https://dev22mt-ga-ssl.callvu.net",
-    clientId: "4e9e2c48-ecc4-4757-be43-c4a492e5130e",
+    baseUrl: 'https://nbj-test55.frontegg.com',
+    clientId: '78820e01-8160-4312-bdb6-54683edb1cca',
   },
   authOptions: {
     keepSessionAlive: true,
