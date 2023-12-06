@@ -4,7 +4,7 @@ import { Frontegg } from "@frontegg/vue";
 import { createRouter, createWebHistory } from "vue-router";
 
 const router = createRouter({
-  history: createWebHistory("/"),
+  history: createWebHistory("/vue-hosted-compositionapi"),
   routes: [
     {
       path: "/frontegg/frontegg-test",
